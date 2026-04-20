@@ -1,16 +1,66 @@
-## Hi there 👋
+Hi, I'm Emmanuel
 
-<!--
-**Iamemmaose/Iamemmaose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer in progress
+Currently learning React and building real-world projects
+Passionate about creating clean and responsive web interfaces
 
-Here are some ideas to get you started:
+About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a frontend developer focused on building responsive and interactive web applications.
+Right now, I’m strengthening my JavaScript fundamentals and learning React to build dynamic user interfaces.
+
+Learning: JavaScript (DOM, ES6+) & React
+Building: Real-world frontend projects
+Goal: Become a job-ready frontend developer
+I focus on consistency and continuous improvement
+
+Tech Stack:
+
+* HTML5
+* CSS3
+* JavaScript (Beginner → Intermediate)
+* React
+
+Tools: 
+* Git & GitHub
+* VS Code
+
+Featured Projects
+
+Food Design Portfolio
+https://iamemmaose.github.io/food-design-portfolio/
+
+Pepsi Landing Page
+https://iamemmaose.github.io/pepsi-landing-page-Responsiveness/
+
+chatbook--responsive
+https://iamemmaose.github.io/chatbook--responsive/
+
+Agntix
+agntix-alpha.vercel.app
+
+exquisite-shop 
+exquisite-shop.vercel.app
+
+
+GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamemmaose&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamemmaose&layout=compact)
+---
+
+Connect With Me
+
+* GitHub: https://github.com/Iamemmaose
+* LinkedIn: https://www.linkedin.com/in/emma-ose-43ab84385
+* Email: emmanuelose652@gmail.com
+
+What I'm Focused On
+
+Right now, I’m focused on:
+
+* Building React projects
+* Improving JavaScript problem-solving skills
+* Writing cleaner and more maintainable code
+
