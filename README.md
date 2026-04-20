@@ -37,10 +37,10 @@ chatbook--responsive
 https://iamemmaose.github.io/chatbook--responsive/
 
 Agntix
-agntix-alpha.vercel.app
+https://agntix-alpha.vercel.app
 
 exquisite-shop 
-exquisite-shop.vercel.app
+https://exquisite-shop.vercel.app
 
 
 GitHub Stats:
