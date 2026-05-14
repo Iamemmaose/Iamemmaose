@@ -39,9 +39,7 @@ https://iamemmaose.github.io/chatbook--responsive/
 Agntix
 https://agntix-alpha.vercel.app
 
-exquisite-shop 
-
-emmaose-exquisite-shop.vercel.app
+exquisite-shop https://emmaose-exquisite-shop.vercel.app
 
 
 GitHub Stats:
