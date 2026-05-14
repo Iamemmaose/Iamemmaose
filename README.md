@@ -40,7 +40,7 @@ Agntix
 https://agntix-alpha.vercel.app
 
 exquisite-shop 
-https://exquisite-shop.vercel.app
+emmaose-exquisite-shop.vercel.app
 
 
 GitHub Stats:
