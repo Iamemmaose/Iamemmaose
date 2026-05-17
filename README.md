@@ -43,9 +43,9 @@ exquisite-shop https://emmaose-exquisite-shop.vercel.app
 
 ## GitHub Stats
 
-![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iamemmaose&show_icons=true&theme=radical&cache_seconds=1800)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iamemmaose&theme=radical" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamemmaose&layout=compact&theme=radical&cache_seconds=1800)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamemmaose&theme=radical" />
 ---
 
 Connect With Me
