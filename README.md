@@ -41,12 +41,11 @@ https://agntix-alpha.vercel.app
 
 exquisite-shop https://emmaose-exquisite-shop.vercel.app
 
-
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamemmaose&show_icons=true&theme=radical)
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iamemmaose&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamemmaose&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamemmaose&layout=compact&theme=radical&cache_seconds=1800)
 ---
 
 Connect With Me
