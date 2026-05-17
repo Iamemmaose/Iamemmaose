@@ -46,7 +46,7 @@ GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamemmaose&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamemmaose&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamemmaose&layout=compact&theme=radical)
 ---
 
 Connect With Me
