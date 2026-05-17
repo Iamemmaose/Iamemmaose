@@ -42,7 +42,7 @@ https://agntix-alpha.vercel.app
 exquisite-shop https://emmaose-exquisite-shop.vercel.app
 
 
-GitHub Stats:
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamemmaose&show_icons=true&theme=radical)
 
