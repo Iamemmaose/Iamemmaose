@@ -43,10 +43,9 @@ exquisite-shop https://emmaose-exquisite-shop.vercel.app
 
 ## 📊 GitHub Stats
 
-![Emma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamemmaose&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lamemmaose&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamemmaose&layout=compact&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lamemmaose&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iamemmaose&theme=radical)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamemmaose&theme=radical)
