@@ -41,11 +41,15 @@ https://agntix-alpha.vercel.app
 
 exquisite-shop https://emmaose-exquisite-shop.vercel.app
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iamemmaose&theme=radical" />
+![Emma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamemmaose&show_icons=true&theme=radical)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iamemmaose&theme=radical" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamemmaose&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iamemmaose&theme=radical)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamemmaose&theme=radical)
 
 
 Connect With Me
