@@ -1,9 +1,8 @@
 # Hi, I'm Emmanuel Ose
 
 ### Frontend Developer Helping Businesses Build Fast, Responsive & Modern Web Experiences
-We can go with this
 
-I build modern, responsive, and scalable web applications that solve real business problems. I enjoy transforming ideas into intuitive digital experiences through clean architecture, reusable components, and high-quality frontend engineering.
+I build modern, responsive, and scalable web applications that solve real business problems. I turn ideas into intuitive digital experiences through clean architecture, reusable components, and high-quality frontend engineering.
 
 ---
 
