@@ -85,11 +85,7 @@ Contributed to an educational platform that provides aspiring developers with an
 
 # 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamemmaose&show_icons=true&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Iamemmaose&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamemmaose&layout=compact&theme=radical)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iamemmaose&theme=radical)
 
